@@ -94,7 +94,6 @@ be constructed to predict a financial attribute.
 [4]: https://www.amazon.com/Data-Mining-Concepts-Techniques-Management/dp/0123814790
 [5]: https://arxiv.org/pdf/1605.00003.pdf
 
-#%% md
 # (Part 1) Time Series Analysis
 ---------------
 ## Description
