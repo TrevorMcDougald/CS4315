@@ -64,8 +64,10 @@ be constructed to predict a financial attribute.
          - Daily Returns
          - Visualizing Daily Returns
     * Stationary Components of Time Series
-         - Description
+         - Stationary Analysis
+         - Differencing
          - Decomposition
+         - Smoothing
     * Data Processing
         - Exponential Smoothing
 * **Predictive Process:**
